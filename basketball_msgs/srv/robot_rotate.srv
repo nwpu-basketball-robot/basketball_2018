@@ -1,0 +1,8 @@
+float64 long_axis
+float64 short_axis
+float64 center_x
+float64 center_y
+float64 revo_speed
+float64 rota_speed
+---
+bool ok

@@ -1,0 +1,4 @@
+#to set the shovel control type
+int8 order_type
+---
+bool is_successed

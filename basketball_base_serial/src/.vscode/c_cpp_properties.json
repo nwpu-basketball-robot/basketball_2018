@@ -1,0 +1,33 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "/home/marilyn/my_workspace/devel/include",
+                    "/opt/ros/kinetic/include",
+                    "/home/marilyn/my_workspace/src/basketball_driver/include",
+                    "/home/marilyn/my_workspace/src/basketball_base_serial/include",
+                    "/home/marilyn/my_workspace/src/basketball_msgs/include",
+                    "/home/marilyn/my_workspace/src/basketball_odom/include",
+                    "/home/marilyn/my_workspace/src/robot_move/include",
+                    "/usr/include"
+                ]
+            },
+            "includePath": [
+                "/home/marilyn/my_workspace/devel/include",
+                "/opt/ros/kinetic/include",
+                "/home/marilyn/my_workspace/src/basketball_driver/include",
+                "/home/marilyn/my_workspace/src/basketball_base_serial/include",
+                "/home/marilyn/my_workspace/src/basketball_msgs/include",
+                "/home/marilyn/my_workspace/src/basketball_odom/include",
+                "/home/marilyn/my_workspace/src/robot_move/include",
+                "/usr/include"
+            ],
+            "name": "Linux",
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 3
+}

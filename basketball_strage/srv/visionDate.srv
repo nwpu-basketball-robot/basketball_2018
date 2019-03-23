@@ -1,0 +1,5 @@
+int32 model
+---
+float64 timeLoad
+basketball_msgs/ballElem[] balls
+basketball_msgs/cylinderElem[] cylinders

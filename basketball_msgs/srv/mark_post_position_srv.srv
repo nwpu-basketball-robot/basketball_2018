@@ -1,0 +1,7 @@
+---
+Header header
+
+#to save some information about the mark_post_position
+geometry_msgs/Pose mark_post_position
+float32 mark_post_yaw
+ 
